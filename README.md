@@ -1,5 +1,5 @@
 # codemetric
-codemetric ai based intern
+
 # Rule-Based Chatbot
 
 ## Project Overview
